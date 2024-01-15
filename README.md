@@ -2,7 +2,7 @@
 This repo contains the code for our project.
 
 Emobot is a useful chatbot designed for use on Discord, featuring three main functions. 
-* The first and second functionalities assist in generating trendy text, utilizing the Albert model for training.
+* The first and second functionalities assist in generating trendy text and auto emoji reply, utilizing the Albert model for training.
 * The third function aids in automatic responses, trained using the GPT-2 model.
 ### Function 1 2&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;            Function3
 <table>
