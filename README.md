@@ -32,7 +32,7 @@ pip install pandas
 
 ```
 ## Execution
-* For the complete model please see [Drive]([https://github.com/](https://drive.google.com/drive/folders/1Yt165MQ2rKarZ9ROnHOHJ6IaM8IULFT7?usp=share_link))
+* For the complete model please see [Drive](https://github.com/](https://drive.google.com/drive/folders/1Yt165MQ2rKarZ9ROnHOHJ6IaM8IULFT7?usp=share_link)
 ### Model-1
 ```
 # Training
