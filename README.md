@@ -19,7 +19,7 @@ Emobot is a useful chatbot designed for use on Discord, featuring three main fun
    - [Model 1](#Model-1)
    - [Model 2](#Model-2)
    - [Discord](#Discord)
-5. [Results](#Results)
+5. [Demo](#Demo)
 ## Datasets
 * We experiment on datasets we collected and generated
 * Please see dictrectory **Datasets**
@@ -59,7 +59,7 @@ python inference.py
 # Example : function 3
 python emobot_GPT2
 ```
-## Results
+## Demo
 ### Function1&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                     Function2&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                    Function3
 <table>
   <tr>
