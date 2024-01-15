@@ -24,7 +24,7 @@ Emobot is a practical chatbot designed for use on Discord, featuring three main 
 * Please see dictrectory Datasets
 ## Installation
 ```
-pip install numpy   matplotlib
+pip install numpy
 pip install torch
 pip install transformers
 pip install matplotlib
@@ -36,10 +36,15 @@ pip install matplotlib
 # Training
 python emojify_model.py
 # Inference
+python inference.py
 
 ```
 ### Model 2
 ```
+# Training
+python emojify_model.py
+# Inference
+python inference.py
 ```
 ### Discord
 ```
