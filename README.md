@@ -16,5 +16,11 @@ This repo contains the code for our project
 ### Model 1
 ### Model 2
 ### Discord
+、、、
+aaa
+、、、
+* Create discord bot 
+* Load pretrained model
+* Please see dictrectorry Discord and run corresponing function file ex python emobot_GPT2
 ## Results
 
