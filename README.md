@@ -1,5 +1,9 @@
 # EMOBOT: A Daily Chatbot In Life
 This repo contains the code for our project
+Emobot is a practical chatbot designed for use on Discord, featuring three main functions. 
+* The first and second functionalities assist in generating trendy text, utilizing the Albert model for training.
+* The third function aids in automatic responses, trained using the GPT-2 model.
+### Function 1 2&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                   Function3
 <table>
   <tr>
     <td><img src="https://github.com/uc-wu/ML-final-project/blob/main/截圖%202024-01-15%20晚上7.06.41.png" width="800"/></td>
@@ -17,11 +21,26 @@ This repo contains the code for our project
 5. [Results](##Results)
 ## Datasets
 * We experiment on datasets we collected and generated
-* Please see dictrectory xxx
+* Please see dictrectory Datasets
 ## Installation
+```
+pip install numpy   matplotlib
+pip install torch
+pip install transformers
+pip install matplotlib
+
+```
 ## Execution
 ### Model 1
+```
+# Training
+python emojify_model.py
+# Inference
+
+```
 ### Model 2
+```
+```
 ### Discord
 ```
 # Create discord bot 
