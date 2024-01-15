@@ -6,6 +6,8 @@ This repo contains the code for our project
 3. [Execution](##Execution)
 4. [Results](##Results)
 ## Datasets
+* We experiment on datasets we collected and generated
+* Please see dictrectory xxx
 ## Installation
 ## Execution
 ## Results
