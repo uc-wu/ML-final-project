@@ -6,8 +6,8 @@ Emobot is a practical chatbot designed for use on Discord, featuring three main 
 ### Function 1 2&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                   Function3
 <table>
   <tr>
-    <td><img src="https://github.com/uc-wu/ML-final-project/blob/main/截圖%202024-01-15%20晚上7.06.41.png" width="800"/></td>
-    <td><img src="https://github.com/uc-wu/ML-final-project/blob/main/截圖%202024-01-15%20晚上7.09.28.png" width="800"/></td>
+    <td><img src="https://github.com/uc-wu/ML-final-project/blob/main/Albert.png" width="800"/></td>
+    <td><img src="https://github.com/uc-wu/ML-final-project/blob/main/GPT-2.png" width="800"/></td>
   </tr>
 </table>
 
@@ -58,9 +58,9 @@ python emobot_GPT2
 ### Function1&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                     Function2&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                    Function3
 <table>
   <tr>
-    <td><img src="https://github.com/uc-wu/ML-final-project/blob/main/56e1c147-0e7f-4724-a602-e20eaa7dd686.gif" width="200"/></td>
-    <td><img src="https://github.com/uc-wu/ML-final-project/blob/main/510c7584-a87f-4be5-8a4a-12ea7f7dcdd6.gif" width="200"/></td>
-     <td><img src="https://github.com/uc-wu/ML-final-project/blob/main/282bdd35-680d-44c9-99d2-8cf7d33f3e8e.gif" width="200"/></td>
+    <td><img src="https://github.com/uc-wu/ML-final-project/blob/main/result1.gif" width="200"/></td>
+    <td><img src="https://github.com/uc-wu/ML-final-project/blob/main/result2.gif" width="200"/></td>
+     <td><img src="https://github.com/uc-wu/ML-final-project/blob/main/result3.gif" width="200"/></td>
   </tr>
 </table>
 
