@@ -1,9 +1,10 @@
 # EMOBOT: A Daily Chatbot In Life
-This repo contains the code for our project
-Emobot is a practical chatbot designed for use on Discord, featuring three main functions. 
+This repo contains the code for our project.
+
+Emobot is a useful chatbot designed for use on Discord, featuring three main functions. 
 * The first and second functionalities assist in generating trendy text, utilizing the Albert model for training.
 * The third function aids in automatic responses, trained using the GPT-2 model.
-### Function 1 2&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                   Function3
+### Function 1 2&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;               Function3
 <table>
   <tr>
     <td><img src="https://github.com/uc-wu/ML-final-project/blob/main/Albert.png" width="800"/></td>
@@ -21,7 +22,7 @@ Emobot is a practical chatbot designed for use on Discord, featuring three main 
 5. [Results](#Results)
 ## Datasets
 * We experiment on datasets we collected and generated
-* Please see dictrectory Datasets
+* Please see dictrectory **Datasets**
 ## Installation
 ```
 pip install numpy
@@ -29,13 +30,13 @@ pip install torch
 pip install transformers
 pip install matplotlib
 pip install pandas
-
 ```
 ## Execution
-* For the complete model please see [Drive](https://drive.google.com/drive/folders/1Yt165MQ2rKarZ9ROnHOHJ6IaM8IULFT7?usp=share_link)
-
+* Please select the corresponding folder based on the functionality.
+* For the complete model information please see [Drive](https://drive.google.com/drive/folders/1Yt165MQ2rKarZ9ROnHOHJ6IaM8IULFT7?usp=share_link)
 ### Model-1
 ```
+#Function 1 2
 # Training
 python main.py
 # Inference
@@ -44,6 +45,7 @@ python inference.py
 ### Model-2
 
 ```
+#Function 3
 # Training
 python main.py
 # Inference
