@@ -28,21 +28,23 @@ pip install numpy
 pip install torch
 pip install transformers
 pip install matplotlib
+pip install pandas
 
 ```
 ## Execution
+* For the complete model please see [Drive]([https://github.com/](https://drive.google.com/drive/folders/1Yt165MQ2rKarZ9ROnHOHJ6IaM8IULFT7?usp=share_link))
 ### Model-1
 ```
 # Training
-python emojify_model.py
+python main.py
 # Inference
 python inference.py
-
 ```
 ### Model-2
+
 ```
 # Training
-python emojify_model.py
+python main.py
 # Inference
 python inference.py
 ```
