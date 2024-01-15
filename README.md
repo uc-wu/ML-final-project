@@ -1,4 +1,4 @@
-# EMOBOT: A Daily Chatbot In Life
+# EMOBOT: An Emoji Chatbot For Online Chat
 This repo contains the code for our project.
 
 Emobot is a useful chatbot designed for use on Discord, featuring three main functions. 
@@ -19,6 +19,7 @@ Emobot is a useful chatbot designed for use on Discord, featuring three main fun
    - [Model 1](#Model-1)
    - [Model 2](#Model-2)
    - [Discord](#Discord)
+4. [Results](#Results) 
 5. [Demo](#Demo)
 ## Datasets
 * We experiment on datasets we collected and generated
@@ -59,6 +60,23 @@ python inference.py
 # Example : function 3
 python emobot_GPT2
 ```
+## Results
+### The Comparison Between Different Emojify Training Method's Performance On The Testing Set
+* Number of epochs to train on the two datasets and accuracy
+  
+| Dataset 1 | Dataset 2 | Accuracy |
+|----------|----------|----------|
+| 10   | 0   | 0.75   |
+| 4   | 6   | 0.82   |
+| 2   | 8   | 0.91   |
+| 0   | 10   | 0.85   |
+### The Average Losses On Training Set And Testing Set 
+* During the training on the Dataset 2 for 8 epochs.
+* Blue curve represents the training loss and the orange curve represents the loss on the testing set.
+### The Average Accuracy On Training Set And Testing Set 
+* During the training on the Dataset 2 for 8 epochs.
+* Blue curve represents the training loss and the orange curve represents the loss on the testing set.
+
 ## Demo
 ### Function1&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                     Function2&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                    Function3
 <table>
