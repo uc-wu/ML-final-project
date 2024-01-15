@@ -14,7 +14,7 @@ Emobot is a useful chatbot designed for use on Discord, featuring three main fun
 
 ## Contents
 1. [Datasets](#Datasets)
-2. [Installation Instructions](#Installation)
+2. [Dependency](#Dependency)
 3. [Execution](#Execution)
    - [Model 1](#Model-1)
    - [Model 2](#Model-2)
@@ -23,7 +23,7 @@ Emobot is a useful chatbot designed for use on Discord, featuring three main fun
 ## Datasets
 * We experiment on datasets we collected and generated
 * Please see dictrectory **Datasets**
-## Installation
+## Dependency
 ```
 pip install numpy
 pip install torch
