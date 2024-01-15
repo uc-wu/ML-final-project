@@ -15,8 +15,8 @@ Emobot is a practical chatbot designed for use on Discord, featuring three main 
 1. [Datasets](#Datasets)
 2. [Installation Instructions](#Installation)
 3. [Execution](#Execution)
-   - [Model 1](#Model1)
-   - [Model 2](#Model2)
+   - [Model 1](#Model_1)
+   - [Model 2](#Model_2)
    - [Discord](#Discord)
 5. [Results](#Results)
 ## Datasets
