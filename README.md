@@ -12,13 +12,13 @@ Emobot is a practical chatbot designed for use on Discord, featuring three main 
 </table>
 
 ## Contents
-1. [Datasets](##Datasets)
-2. [Installation Instructions](##Installation)
-3. [Execution](##Execution)
-   - [Model 1](###Model1)
-   - [Model 2](###Model2)
-   - [Discord](###Discord)
-5. [Results](##Results)
+1. [Datasets](#Datasets)
+2. [Installation Instructions](#Installation)
+3. [Execution](#Execution)
+   - [Model 1](#Model1)
+   - [Model 2](#Model2)
+   - [Discord](#Discord)
+5. [Results](#Results)
 ## Datasets
 * We experiment on datasets we collected and generated
 * Please see dictrectory Datasets
