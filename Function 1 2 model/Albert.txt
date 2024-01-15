@@ -1,0 +1,67 @@
+Before Training...
+-> Accuracy: 0.00
+-> Average training loss: 5.73
+Running Validation...
+-> Validation took: 0:00:15
+-> Accuracy: 0.00
+-> Validation Loss: 5.73
+
+========== Epoch 1 / 6 ==========
+Running Training...
+-> Training epoch took: 0:06:38
+-> Accuracy: 0.65
+-> Average training loss: 2.11
+Running Validation...
+-> Validation took: 0:00:15
+-> Accuracy: 0.63
+-> Validation Loss: 2.17
+
+========== Epoch 2 / 6 ==========
+Running Training...
+-> Training epoch took: 0:06:38
+-> Accuracy: 0.76
+-> Average training loss: 1.17
+Running Validation...
+-> Validation took: 0:00:15
+-> Accuracy: 0.74
+-> Validation Loss: 1.30
+
+========== Epoch 3 / 6 ==========
+Running Training...
+-> Training epoch took: 0:06:37
+-> Accuracy: 0.81
+-> Average training loss: 0.83
+Running Validation...
+-> Validation took: 0:00:15
+-> Accuracy: 0.76
+-> Validation Loss: 1.06
+
+========== Epoch 4 / 6 ==========
+Running Training...
+-> Training epoch took: 0:06:39
+-> Accuracy: 0.85
+-> Average training loss: 0.65
+Running Validation...
+-> Validation took: 0:00:15
+-> Accuracy: 0.79
+-> Validation Loss: 0.95
+
+========== Epoch 5 / 6 ==========
+Running Training...
+-> Training epoch took: 0:06:37
+-> Accuracy: 0.88
+-> Average training loss: 0.53
+Running Validation...
+-> Validation took: 0:00:15
+-> Accuracy: 0.80
+-> Validation Loss: 0.91
+
+========== Epoch 6 / 6 ==========
+Running Training...
+-> Training epoch took: 0:06:36
+-> Accuracy: 0.89
+-> Average training loss: 0.48
+Running Validation...
+-> Validation took: 0:00:15
+-> Accuracy: 0.80
+-> Validation Loss: 0.89

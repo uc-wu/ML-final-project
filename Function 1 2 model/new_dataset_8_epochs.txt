@@ -1,0 +1,86 @@
+-> Accuracy: 0.00
+-> Average training loss: 5.73
+Running Validation...
+-> Validation took: 0:00:03
+-> Accuracy: 0.01
+-> Validation Loss: 5.73
+
+========== Epoch 1 / 8 ==========
+Running Training...
+-> Training epoch took: 0:02:31
+-> Accuracy: 0.04
+-> Average training loss: 5.23
+Running Validation...
+-> Validation took: 0:00:03
+-> Accuracy: 0.02
+-> Validation Loss: 5.27
+
+========== Epoch 2 / 8 ==========
+Running Training...
+-> Training epoch took: 0:02:32
+-> Accuracy: 0.28
+-> Average training loss: 4.42
+Running Validation...
+-> Validation took: 0:00:03
+-> Accuracy: 0.22
+-> Validation Loss: 4.51
+
+========== Epoch 3 / 8 ==========
+Running Training...
+-> Training epoch took: 0:02:32
+-> Accuracy: 0.62
+-> Average training loss: 3.61
+Running Validation...
+-> Validation took: 0:00:03
+-> Accuracy: 0.54
+-> Validation Loss: 3.75
+
+========== Epoch 4 / 8 ==========
+Running Training...
+-> Training epoch took: 0:02:32
+-> Accuracy: 0.76
+-> Average training loss: 2.93
+Running Validation...
+-> Validation took: 0:00:03
+-> Accuracy: 0.70
+-> Validation Loss: 3.11
+
+========== Epoch 5 / 8 ==========
+Running Training...
+-> Training epoch took: 0:02:32
+-> Accuracy: 0.85
+-> Average training loss: 2.36
+Running Validation...
+-> Validation took: 0:00:03
+-> Accuracy: 0.78
+-> Validation Loss: 2.58
+
+========== Epoch 6 / 8 ==========
+Running Training...
+-> Training epoch took: 0:02:32
+-> Accuracy: 0.89
+-> Average training loss: 1.96
+Running Validation...
+-> Validation took: 0:00:03
+-> Accuracy: 0.81
+-> Validation Loss: 2.20
+
+========== Epoch 7 / 8 ==========
+Running Training...
+-> Training epoch took: 0:02:32
+-> Accuracy: 0.91
+-> Average training loss: 1.72
+Running Validation...
+-> Validation took: 0:00:03
+-> Accuracy: 0.83
+-> Validation Loss: 1.98
+
+========== Epoch 8 / 8 ==========
+Running Training...
+-> Training epoch took: 0:02:32
+-> Accuracy: 0.92
+-> Average training loss: 1.63
+Running Validation...
+-> Validation took: 0:00:03
+-> Accuracy: 0.85
+-> Validation Loss: 1.90
