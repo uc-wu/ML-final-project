@@ -2,8 +2,11 @@
 This repo contains the code for our project
 ## Contents
 [Datasets](##Datasets)
+
 [Installation Instructions](##Installation)
+
 [Execution](##Execution)
+
 [Results](##Results)
 ## Datasets
 ## Installation
