@@ -73,9 +73,12 @@ python emobot_GPT2
 ### The Average Losses On Training Set And Testing Set 
 * During the training on the Dataset 2 for 8 epochs.
 * Blue curve represents the training loss and the orange curve represents the loss on the testing set.
+<img src="https://github.com/uc-wu/ML-final-project/blob/main/Loss.png" width="400" height="300" />
 ### The Average Accuracy On Training Set And Testing Set 
+
 * During the training on the Dataset 2 for 8 epochs.
 * Blue curve represents the training loss and the orange curve represents the loss on the testing set.
+<img src="https://github.com/uc-wu/ML-final-project/blob/main/Accuracy.png" width="400" height="300" />
 
 ## Demo
 ### Function1&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                     Function2&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                    Function3
